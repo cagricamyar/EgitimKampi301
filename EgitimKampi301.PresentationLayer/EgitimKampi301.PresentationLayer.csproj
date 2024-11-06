@@ -33,6 +33,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -75,6 +83,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EgitimKampi301.BusinessLayer\EgitimKampi301.BusinessLayer.csproj">
+      <Project>{515d7954-158c-4595-bc3a-cbd7d10ec108}</Project>
+      <Name>EgitimKampi301.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EgitimKampi301.DataAccessLayer\EgitimKampi301.DataAccessLayer.csproj">
+      <Project>{ed82124c-0370-4a06-aab5-0676ce685d13}</Project>
+      <Name>EgitimKampi301.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EgitimKampi301.EntityLayer\EgitimKampi301.EntityLayer.csproj">
+      <Project>{5278b58c-7d91-4118-a4b1-b7197e6cf83a}</Project>
+      <Name>EgitimKampi301.EntityLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

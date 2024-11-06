@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EgitimKampi301.DataAccessLayer\EgitimKampi301.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\EgitimKampi301.EntityLayer\EgitimKampi301.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>
