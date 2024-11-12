@@ -6,3 +6,6 @@ Onikinci dersimizde, oluşturduğumuz nesnel sınıflarının hem kendi arasınd
 
 🏷 DERS 13 : MIGRATION ve CRUD OPERATIONS! <br/>
 Onüçüncü dersimizde, Code First ilkesine bağlı olarak migration özelliğinin nasıl aktif edildiğini öğrendik. <br/> Tasarım deseni ile algoritma arasındaki farkların neler olduğunu gördük ve temel CRUD operasyonlarını interface aracılığı ile ekledik. 📚
+
+🏷 DERS 14 : ENTITY FRAMEWORK! <br/>
+Ondördüncü dersimizde, Entity Framework ile ORM yapısı üzerine çalışmamızı gerçekleştirdik sistemimizi nasıl çalıştıracağımızı görmüş olduk. Entity Framework'ün projemize neler katabileceğini öğrendik. 🪄
