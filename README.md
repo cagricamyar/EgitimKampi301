@@ -10,5 +10,5 @@ Onüçüncü dersimizde, Code First ilkesine bağlı olarak migration özelliği
 🏷 DERS 14 : ENTITY FRAMEWORK! <br/>
 Ondördüncü dersimizde, Entity Framework ile ORM yapısı üzerine çalışmamızı gerçekleştirdik sistemimizi nasıl çalıştıracağımızı görmüş olduk. Entity Framework'ün projemize neler katabileceğini öğrendik. 🪄
 
-🏷 DERS 14 : ENTITY FRAMEWORK ile PROJE! <br/>
+🏷 DERS 15 : ENTITY FRAMEWORK ile PROJE! <br/>
 Onbeşinci dersimizde, CRUD operasyonlarını Windows Form uygulamamızda Entity Framework ile birlikte kullanarak projeye entegre ettik. 🪜
