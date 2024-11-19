@@ -12,3 +12,7 @@ Ondördüncü dersimizde, Entity Framework ile ORM yapısı üzerine çalışmam
 
 🏷 DERS 15 : ENTITY FRAMEWORK ile PROJE! <br/>
 Onbeşinci dersimizde, CRUD operasyonlarını Windows Form uygulamamızda Entity Framework ile birlikte kullanarak projeye entegre ettik. 🪜
+
+🏷 DERS 16 : ENTITY FRAMEWORK ile CRUD OPERASYONLARI! <br/>
+Onaltıncı dersimizde, önceki derste yaptıklarımızı yeni bir form uygulaması üzerinde tekrarladık, Entity Frameworkü DB First olarak kullandık. 💬 <br/>
+Bu dersle ilgili Repoyu https://github.com/CagriCamyar/EgitimKampiEfTravelProject linkinden görebilirsiniz.
