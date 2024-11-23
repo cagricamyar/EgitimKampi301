@@ -16,3 +16,7 @@ Onbeşinci dersimizde, CRUD operasyonlarını Windows Form uygulamamızda Entity
 🏷 DERS 16 : ENTITY FRAMEWORK ile CRUD OPERASYONLARI! <br/>
 Onaltıncı dersimizde, önceki derste yaptıklarımızı yeni bir form uygulaması üzerinde tekrarladık, Entity Frameworkü DB First olarak kullandık. 💬 <br/>
 Bu dersle ilgili Repoyu https://github.com/CagriCamyar/EgitimKampiEfTravelProject linkinden görebilirsiniz.
+
+🏷 DERS 17 : ENTITY FRAMEWORK METOTLARI ve LINQ SORGULARI!
+Onyedinci dersimizde, Entity Framework metotlarını kullanıp LINQ sorguları ile tablolarımıza ulaşarak dinamik sorgular ile bir istatistik sayfası elde ettik. 🎯
+https://github.com/CagriCamyar/EgitimKampiEfTravelProject/tree/master ==> ulaşabilirsiniz. :)
