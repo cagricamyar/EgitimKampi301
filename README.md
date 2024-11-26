@@ -17,6 +17,10 @@ Onbeşinci dersimizde, CRUD operasyonlarını Windows Form uygulamamızda Entity
 Onaltıncı dersimizde, önceki derste yaptıklarımızı yeni bir form uygulaması üzerinde tekrarladık, Entity Frameworkü DB First olarak kullandık. 💬 <br/>
 Bu dersle ilgili Repoyu https://github.com/CagriCamyar/EgitimKampiEfTravelProject linkinden görebilirsiniz.
 
-🏷 DERS 17 : ENTITY FRAMEWORK METOTLARI ve LINQ SORGULARI!
+🏷 DERS 17 : ENTITY FRAMEWORK METOTLARI ve LINQ SORGULARI! <br/>
 Onyedinci dersimizde, Entity Framework metotlarını kullanıp LINQ sorguları ile tablolarımıza ulaşarak dinamik sorgular ile bir istatistik sayfası elde ettik. 🎯
 https://github.com/CagriCamyar/EgitimKampiEfTravelProject/tree/master ==> ulaşabilirsiniz. :)
+
+🏷 DERS 18 : ENTITY STATE KOMUTLARI ve GENERIC REPOSITORY! <br/>
+Onsekizinci dersimizde, Entity Framework'ün içerisinde yer alan EntityState komutlarının çalışma prensiplerini GenericRepository oluşturarak kullandık. <br/>
+Nesnelerimizin dataAccess katmanı üzerindeki concrete karşılıklarını oluşturduk ve GenericRepositoryden miras aldık. Bu sayede  CRUD işlemlerini bir kere GenericRepository için yazmış olsak bile her nesnemiz bu özellikleri taşır duruma geldi. 🗂️
