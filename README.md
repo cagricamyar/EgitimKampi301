@@ -3,3 +3,20 @@ Onbirinci dersimizde, katmanlı mimariye giriş yaptık. Entity, dataAccess, bus
 
 🏷 DERS 12 : DATA ACCESS KATMANI! <br/>
 Onikinci dersimizde, oluşturduğumuz nesnel sınıflarının hem kendi arasında one-to-many (bire çok) ilişkisini hemde sql tablolarıyla nasıl ilişkilendireceğimizi, EntityFramework'ü sistemimize eklemeyi, katmanlar arasındaki bağımlılığı öğrendik. ⛓
+
+🏷 DERS 13 : MIGRATION ve CRUD OPERATIONS! <br/>
+Onüçüncü dersimizde, Code First ilkesine bağlı olarak migration özelliğinin nasıl aktif edildiğini öğrendik. <br/> Tasarım deseni ile algoritma arasındaki farkların neler olduğunu gördük ve temel CRUD operasyonlarını interface aracılığı ile ekledik. 📚
+
+🏷 DERS 14 : ENTITY FRAMEWORK! <br/>
+Ondördüncü dersimizde, Entity Framework ile ORM yapısı üzerine çalışmamızı gerçekleştirdik sistemimizi nasıl çalıştıracağımızı görmüş olduk. Entity Framework'ün projemize neler katabileceğini öğrendik. 🪄
+
+🏷 DERS 15 : ENTITY FRAMEWORK ile PROJE! <br/>
+Onbeşinci dersimizde, CRUD operasyonlarını Windows Form uygulamamızda Entity Framework ile birlikte kullanarak projeye entegre ettik. 🪜
+
+🏷 DERS 16 : ENTITY FRAMEWORK ile CRUD OPERASYONLARI! <br/>
+Onaltıncı dersimizde, önceki derste yaptıklarımızı yeni bir form uygulaması üzerinde tekrarladık, Entity Frameworkü DB First olarak kullandık. 💬 <br/>
+Bu dersle ilgili Repoyu https://github.com/CagriCamyar/EgitimKampiEfTravelProject linkinden görebilirsiniz.
+
+🏷 DERS 17 : ENTITY FRAMEWORK METOTLARI ve LINQ SORGULARI!
+Onyedinci dersimizde, Entity Framework metotlarını kullanıp LINQ sorguları ile tablolarımıza ulaşarak dinamik sorgular ile bir istatistik sayfası elde ettik. 🎯
+https://github.com/CagriCamyar/EgitimKampiEfTravelProject/tree/master ==> ulaşabilirsiniz. :)
