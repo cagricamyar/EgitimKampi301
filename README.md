@@ -24,3 +24,6 @@ https://github.com/CagriCamyar/EgitimKampiEfTravelProject/tree/master ==> ulaşa
 🏷 DERS 18 : ENTITY STATE KOMUTLARI ve GENERIC REPOSITORY! <br/>
 Onsekizinci dersimizde, Entity Framework'ün içerisinde yer alan EntityState komutlarının çalışma prensiplerini GenericRepository oluşturarak kullandık. <br/>
 Nesnelerimizin dataAccess katmanı üzerindeki concrete karşılıklarını oluşturduk ve GenericRepositoryden miras aldık. Bu sayede  CRUD işlemlerini bir kere GenericRepository için yazmış olsak bile her nesnemiz bu özellikleri taşır duruma geldi. 🗂️
+
+🏷 DERS 19 : BUSINESS KATMANI ve LOGIC KURALLAR! <br/>
+Ondokuzuncu dersimizde, Business katmanına giriş yaptık ve CRUD ifadelerimizi servicelerimize işledik. Ardından generic bir service oluşturarak managerlarımıza implemente ettik. Dependency Injection yöntemiyle de DataAccess managerlerimizi ulaştırıp ilgili komutlarımızı çalıştırmayı başardık. ⚡
