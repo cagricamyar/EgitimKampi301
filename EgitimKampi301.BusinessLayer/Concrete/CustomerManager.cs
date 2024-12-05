@@ -20,13 +20,13 @@ namespace EgitimKampi301.BusinessLayer.Concrete
 
 		public void Add(Customer entity)
 		{
-			if (entity.CustomerName == "" && entity.CustomerName.Length >= 3 && entity.CustomerCity != null && entity.CustomerSurname == "" && entity.CustomerName.Length <=30)
+			if (entity.CustomerName == "" && entity.CustomerName.Length >= 3 && entity.CustomerCity != null && entity.CustomerSurname == "" && entity.CustomerName.Length <= 30)
 			{
 				_customerDal.Insert(entity);
 			}
 			else
 			{
-                Console.WriteLine("Ekleme Basarisiz");
+				Console.WriteLine("Ekleme Basarisiz");
 			}
 
 		}

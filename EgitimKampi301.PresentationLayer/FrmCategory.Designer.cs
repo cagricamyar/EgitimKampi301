@@ -30,7 +30,7 @@
         {
 			this.label1 = new System.Windows.Forms.Label();
 			this.txtCategoryId = new System.Windows.Forms.TextBox();
-			this.dataGridView2 = new System.Windows.Forms.DataGridView();
+			this.dataGridView1 = new System.Windows.Forms.DataGridView();
 			this.btnList = new System.Windows.Forms.Button();
 			this.txtCategoryName = new System.Windows.Forms.TextBox();
 			this.label2 = new System.Windows.Forms.Label();
@@ -41,7 +41,7 @@
 			this.btnGetById = new System.Windows.Forms.Button();
 			this.btnUpdate = new System.Windows.Forms.Button();
 			this.btnDelete = new System.Windows.Forms.Button();
-			((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
 			this.SuspendLayout();
 			// 
 			// label1
@@ -60,13 +60,13 @@
 			this.txtCategoryId.Size = new System.Drawing.Size(162, 20);
 			this.txtCategoryId.TabIndex = 1;
 			// 
-			// dataGridView2
+			// dataGridView1
 			// 
-			this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-			this.dataGridView2.Location = new System.Drawing.Point(321, 45);
-			this.dataGridView2.Name = "dataGridView2";
-			this.dataGridView2.Size = new System.Drawing.Size(467, 303);
-			this.dataGridView2.TabIndex = 3;
+			this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+			this.dataGridView1.Location = new System.Drawing.Point(321, 45);
+			this.dataGridView1.Name = "dataGridView1";
+			this.dataGridView1.Size = new System.Drawing.Size(467, 303);
+			this.dataGridView1.TabIndex = 3;
 			// 
 			// btnList
 			// 
@@ -76,6 +76,7 @@
 			this.btnList.TabIndex = 4;
 			this.btnList.Text = "Listele";
 			this.btnList.UseVisualStyleBackColor = true;
+			this.btnList.Click += new System.EventHandler(this.btnList_Click);
 			// 
 			// txtCategoryName
 			// 
@@ -132,6 +133,7 @@
 			this.btnAdd.TabIndex = 11;
 			this.btnAdd.Text = "Ekle";
 			this.btnAdd.UseVisualStyleBackColor = true;
+			this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
 			// 
 			// btnGetById
 			// 
@@ -141,6 +143,7 @@
 			this.btnGetById.TabIndex = 12;
 			this.btnGetById.Text = "Id\'ye Göre Getir";
 			this.btnGetById.UseVisualStyleBackColor = true;
+			this.btnGetById.Click += new System.EventHandler(this.btnGetById_Click);
 			// 
 			// btnUpdate
 			// 
@@ -150,6 +153,7 @@
 			this.btnUpdate.TabIndex = 13;
 			this.btnUpdate.Text = "Güncelle";
 			this.btnUpdate.UseVisualStyleBackColor = true;
+			this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
 			// 
 			// btnDelete
 			// 
@@ -159,6 +163,7 @@
 			this.btnDelete.TabIndex = 14;
 			this.btnDelete.Text = "Sil";
 			this.btnDelete.UseVisualStyleBackColor = true;
+			this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
 			// 
 			// FrmCategory
 			// 
@@ -175,12 +180,12 @@
 			this.Controls.Add(this.txtCategoryName);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.btnList);
-			this.Controls.Add(this.dataGridView2);
+			this.Controls.Add(this.dataGridView1);
 			this.Controls.Add(this.txtCategoryId);
 			this.Controls.Add(this.label1);
 			this.Name = "FrmCategory";
 			this.Text = " ";
-			((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
@@ -190,7 +195,7 @@
 
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.TextBox txtCategoryId;
-		private System.Windows.Forms.DataGridView dataGridView2;
+		private System.Windows.Forms.DataGridView dataGridView1;
 		private System.Windows.Forms.Button btnList;
 		private System.Windows.Forms.TextBox txtCategoryName;
 		private System.Windows.Forms.Label label2;

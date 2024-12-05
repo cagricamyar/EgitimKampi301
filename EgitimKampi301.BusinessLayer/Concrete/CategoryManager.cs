@@ -14,12 +14,12 @@ namespace EgitimKampi301.BusinessLayer.Concrete
 
 		ICategoryDal _categoryDal;
 
-        public CategoryManager(ICategoryDal categoryDal)
-        { 
+		public CategoryManager(ICategoryDal categoryDal)
+		{
 			_categoryDal = categoryDal;
-        }
+		}
 
-        public void Add(Category entity)
+		public void Add(Category entity)
 		{
 			_categoryDal.Insert(entity);
 		}

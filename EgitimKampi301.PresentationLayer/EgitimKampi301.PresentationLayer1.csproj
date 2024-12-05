@@ -9,12 +9,13 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>EgitimKampi301.PresentationLayer</RootNamespace>
     <AssemblyName>EgitimKampi301.PresentationLayer</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -75,6 +76,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -89,6 +91,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EgitimKampi301.BusinessLayer\EgitimKampi301.BusinessLayer.csproj">
+      <Project>{7b9ba88c-5b0e-4759-9cc9-5181027afee5}</Project>
+      <Name>EgitimKampi301.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EgitimKampi301.DataAccessLayer\EgitimKampi301.DataAccessLayer.csproj">
+      <Project>{ed82124c-0370-4a06-aab5-0676ce685d13}</Project>
+      <Name>EgitimKampi301.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EgitimKampi301.EntityLayer\EgitimKampi301.EntityLayer.csproj">
+      <Project>{5278b58c-7d91-4118-a4b1-b7197e6cf83a}</Project>
+      <Name>EgitimKampi301.EntityLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -13,19 +13,19 @@ namespace EgitimKampi301.BusinessLayer.Concrete
 	{
 		IProductDal _productDal;
 
-        public ProductManager(IProductDal productDal)
-        {            
+		public ProductManager(IProductDal productDal)
+		{
 			_productDal = productDal;
-        }
+		}
 
-        public void Add(Product entity)
+		public void Add(Product entity)
 		{
 			_productDal.Insert(entity);
 		}
 
 		public void Delete(Product entity)
 		{
-			_productDal.Delete(entity);	
+			_productDal.Delete(entity);
 		}
 
 		public List<Product> GetAll()
