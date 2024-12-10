@@ -27,3 +27,7 @@ Nesnelerimizin dataAccess katmanı üzerindeki concrete karşılıklarını olu�
 
 🏷 DERS 19 : BUSINESS KATMANI ve LOGIC KURALLAR! <br/>
 Ondokuzuncu dersimizde, Business katmanına giriş yaptık ve CRUD ifadelerimizi servicelerimize işledik. Ardından generic bir service oluşturarak managerlarımıza implemente ettik. Dependency Injection yöntemiyle de DataAccess managerlerimizi ulaştırıp ilgili komutlarımızı çalıştırmayı başardık. ⚡
+
+🏷 DERS 20 : DEPENDENCY INJECTION! <br/>
+Yirminci dersimizde, Dependency Injection, yazılım geliştirme sürecinde bağımlılıkları yönetmek için güçlü bir yöntemdir. Kodun, yeniden kullanılabilirliği ve test edilebilirliği açısından büyük avantajlar sağlar. <br/>
+Biz Loose Coupling ile katmanlar arası geçişi constructor injection yöntemiyle sağladık. 🪢
