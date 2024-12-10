@@ -38,6 +38,11 @@ namespace EgitimKampi301.BusinessLayer.Concrete
 			return _productDal.GetById(id);
 		}
 
+		public List<Object> GetProductsWithCategory()
+		{
+			return _productDal.GetProductsWithCategory();
+		}
+
 		public void Update(Product entity)
 		{
 			_productDal.Update(entity);
