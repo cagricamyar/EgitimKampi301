@@ -31,3 +31,6 @@ Ondokuzuncu dersimizde, Business katmanına giriş yaptık ve CRUD ifadelerimizi
 🏷 DERS 20 : DEPENDENCY INJECTION! <br/>
 Yirminci dersimizde, Dependency Injection, yazılım geliştirme sürecinde bağımlılıkları yönetmek için güçlü bir yöntemdir. Kodun, yeniden kullanılabilirliği ve test edilebilirliği açısından büyük avantajlar sağlar. <br/>
 Biz Loose Coupling ile katmanlar arası geçişi constructor injection yöntemiyle sağladık. 🪢
+
+🏷 DERS 21 : ENTITY ICIN METOT YAZMAK! <br/>
+Yirmibirinci dersimizde, Generic Repository içerisinde yazdığımız CRUD işlemlerini oluşturduğumuz her entity için kullanabiliyorken, bu derste sadece herhangi bir entitymizi ilgilendiren bir metot olması gereken durumlarda ne yapmamız gerektiğini öğrenmiş olduk. 🧐
