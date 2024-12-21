@@ -34,3 +34,7 @@ Biz Loose Coupling ile katmanlar arası geçişi constructor injection yöntemiy
 
 🏷 DERS 21 : ENTITY ICIN METOT YAZMAK! <br/>
 Yirmibirinci dersimizde, Generic Repository içerisinde yazdığımız CRUD işlemlerini oluşturduğumuz her entity için kullanabiliyorken, bu derste sadece herhangi bir entitymizi ilgilendiren bir metot olması gereken durumlarda ne yapmamız gerektiğini öğrenmiş olduk. 🧐
+
+🏷 DERS 22 : DAPPER! <br/>
+Yirmiikinci dersimizde, Eğitimimizin 501 modülüne geçiş yaptık ve Dapper kurulumunu ne için ve nasıl kullanacağımızı öğrenmiş olduk. 💨 <br/>
+İlgili dersin reposuna [https://github.com/cagricamyar/EgitimKampi501/commits/master](https://github.com/cagricamyar/EgitimKampi501/commit/9c590bd2e7ac16edd20e7cce677f7e9b7ef6b2a6) buradan ulaşabilirsiniz.
