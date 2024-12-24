@@ -38,3 +38,6 @@ Yirmibirinci dersimizde, Generic Repository içerisinde yazdığımız CRUD işl
 🏷 DERS 22 : DAPPER! <br/>
 Yirmiikinci dersimizde, Eğitimimizin 501 modülüne geçiş yaptık ve Dapper kurulumunu ne için ve nasıl kullanacağımızı öğrenmiş olduk. 💨 <br/>
 İlgili dersin reposuna [https://github.com/cagricamyar/EgitimKampi501/commits/master](https://github.com/cagricamyar/EgitimKampi501/commit/9c590bd2e7ac16edd20e7cce677f7e9b7ef6b2a6) buradan ulaşabilirsiniz.
+
+🏷 DERS 23 : DAPPER İŞLEMLERİ! <br/>
+Yirmiüçüncü dersimizde, önceki derste giriş yapmış olduğumuz Dapper'ı kullanarak CRUD işlemlerini (Create, Read, Update, Delete) gerçekleştirdik. Dapper kullanırken SQL sorgularından yararlanmamız gerektiğini ve sorgular üzerinden işlemlerimize devam etmemiz gerektiğini öğrendik. 🏃‍♂️
