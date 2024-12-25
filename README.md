@@ -41,3 +41,7 @@ Yirmiikinci dersimizde, Eğitimimizin 501 modülüne geçiş yaptık ve Dapper k
 
 🏷 DERS 23 : DAPPER İŞLEMLERİ! <br/>
 Yirmiüçüncü dersimizde, önceki derste giriş yapmış olduğumuz Dapper'ı kullanarak CRUD işlemlerini (Create, Read, Update, Delete) gerçekleştirdik. Dapper kullanırken SQL sorgularından yararlanmamız gerektiğini ve sorgular üzerinden işlemlerimize devam etmemiz gerektiğini öğrendik. 🏃‍♂️
+
+🏷 DERS 24 : MONGODB! <br/>
+Yirmidördüncü dersimizde, MongoDB'ye giriş yaptık, projemizle olan bağlantısını nasıl yapacağımızı ve MongoDb'de ekleme işleminin nasıl yapılacağını öğrenmiş olduk. 🧭 <br/>
+İlgili dersin reposuna https://github.com/cagricamyar/EgitimKampi601 buradan ulaşabilirsiniz. 
