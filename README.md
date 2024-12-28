@@ -45,3 +45,6 @@ Yirmiüçüncü dersimizde, önceki derste giriş yapmış olduğumuz Dapper'ı 
 🏷 DERS 24 : MONGODB! <br/>
 Yirmidördüncü dersimizde, MongoDB'ye giriş yaptık, projemizle olan bağlantısını nasıl yapacağımızı ve MongoDb'de ekleme işleminin nasıl yapılacağını öğrenmiş olduk. 🧭 <br/>
 İlgili dersin reposuna https://github.com/cagricamyar/EgitimKampi601 buradan ulaşabilirsiniz. 
+
+🏷 DERS 25 : MONGODB CRUD OPERASYONLARI! <br/>
+Yirmibeşinci dersimizde, MongoDB'de yapacağımız CRUD operasyonlarının nasıl  yapılacağını görmüş olduk. MONGODB ile beraber yeni bir bakış açısı ve düşünme yetisi kazanmış durumdayız. 💭  <br/>
