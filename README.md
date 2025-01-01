@@ -48,3 +48,6 @@ Yirmidördüncü dersimizde, MongoDB'ye giriş yaptık, projemizle olan bağlant
 
 🏷 DERS 25 : MONGODB CRUD OPERASYONLARI! <br/>
 Yirmibeşinci dersimizde, MongoDB'de yapacağımız CRUD operasyonlarının nasıl  yapılacağını görmüş olduk. MONGODB ile beraber yeni bir bakış açısı ve düşünme yetisi kazanmış durumdayız. 💭  <br/>
+
+🏷 DERS 26 : POSTGRESQL <br/>
+Yirmialtıncı dersimizde, PostgreSql'de CRUD operasyonlarını nasıl yapacağımzı Windows Form Application üzerinde gördük. 🐘
