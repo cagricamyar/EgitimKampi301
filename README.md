@@ -56,5 +56,5 @@ Yirmialtıncı dersimizde, PostgreSql'de CRUD operasyonlarını nasıl yapacağ�
 Yirmiyedinci dersimizde, oluşturduğumuz Müşteri tablosunun yanında personel ve departman tabloları da oluşturarak tablolar arasındaki bilgileri Foreign Keyler ile nasıl elde edebileceğimizi öğrenmiş olduk. ⛓️ 
 
 🏷 DERS 28 : FINANCIAL CRM  PROJECT! <br/>
-Yirmisekizinci dersimizde, eğitimizin sonuna yaklaşırken finansal hesaplamalarımızı yapabileceğimiz bir CRM uygulamasını Windows Form üzerinde başlattık ve tasarım kısmınını neredeyse bitirdik. <br/> 👨‍💻
+Yirmisekizinci dersimizde, eğitimizin sonuna yaklaşırken finansal hesaplamalarımızı yapabileceğimiz bir CRM uygulamasını Windows Form üzerinde başlattık ve tasarım kısmınını neredeyse bitirdik.👨‍💻 <br/> 
 İlgili dersin reposuna https://github.com/cagricamyar/FinancialCRM ulaşabilirsiniz. 
