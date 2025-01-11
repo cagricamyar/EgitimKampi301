@@ -58,3 +58,6 @@ Yirmiyedinci dersimizde, oluşturduğumuz Müşteri tablosunun yanında personel
 🏷 DERS 28 : FINANCIAL CRM  PROJECT! <br/>
 Yirmisekizinci dersimizde, eğitimizin sonuna yaklaşırken finansal hesaplamalarımızı yapabileceğimiz bir CRM uygulamasını Windows Form üzerinde başlattık ve tasarım kısmınını neredeyse bitirdik.👨‍💻 <br/> 
 İlgili dersin reposuna https://github.com/cagricamyar/FinancialCRM ulaşabilirsiniz. 
+
+🏷 DERS 29 : FINANCIAL CRM PROJECT CRUD OPERASYONLARI VE FORMLAR ARASI GEÇİŞ! <br/>
+Yirmidokuzuncu dersimizde, uygulamamıza CRUD operasyonlarını ekleyip birden fazla oluşturduğumuz formlar arasında nasıl geçiş yapabileceğimizi öğrenmiş olduk. 🏦
