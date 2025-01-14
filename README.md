@@ -61,3 +61,8 @@ Yirmisekizinci dersimizde, eğitimizin sonuna yaklaşırken finansal hesaplamala
 
 🏷 DERS 29 : FINANCIAL CRM PROJECT CRUD OPERASYONLARI VE FORMLAR ARASI GEÇİŞ! <br/>
 Yirmidokuzuncu dersimizde, uygulamamıza CRUD operasyonlarını ekleyip birden fazla oluşturduğumuz formlar arasında nasıl geçiş yapabileceğimizi öğrenmiş olduk. 🏦
+
+🏷 DERS 30 : FINANCIAL CRM PROJECT VE FİNAL! <br/>
+Otuzuncu ve son dersimizde, uygulamamıza istatistik bölümümüzü ekleyerek projemize nasıl görsellik katabileceğimizi öğrenmiş olduk. 📊📈
+
+![FlagNascarGIF](https://github.com/user-attachments/assets/91785883-65a3-49a4-9525-8c97e39a143d)
